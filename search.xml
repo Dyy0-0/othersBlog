@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/06/23/hello-world/"/>
+      <url>/2020/06/23/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>guitar-learn</title>
+      <link href="/2020/06/22/guitar-learn/"/>
+      <url>/2020/06/22/guitar-learn/</url>
+      
+        <content type="html"><![CDATA[<h1 id="有关吉他教程"><a href="#有关吉他教程" class="headerlink" title="有关吉他教程"></a>有关吉他教程</h1><p>有好多前辈已经出了许多教程，我也就没有必要去出教程，因此我推荐一下初学者去学习一些大佬的教程：例如，潇潇指弹 东尼指弹，左轮吉他，郭咚咚吉他，玄武吉他教室，果木音乐，叶锐文新概念吉他教程，阿涛吉他教程，琴歌吉他指弹，何远志吉他，弗拉门戈技巧等等，这些我均有研究，但是并不是很深。这些有的在公众号中，有的可以在优酷等各大视频网站找到详细教学。</p><h2 id="怎样学习"><a href="#怎样学习" class="headerlink" title="怎样学习"></a>怎样学习</h2><p>​    很多人问吉他难学吗？那我想问你：你是否已经否定了自己？任何道路都是艰辛的，都是需要你不断的努力，不断的在孤独中寻找出路。师傅引进门，修行在个人。这个东西它关键在一个字“练”。吉他老师为了让你买吉他能说不好学吗？再说每个人对事物，对世界的感知都是不一样的，说不定你就有那样高超的天赋呢？只有合不合适，没有好不好学。</p><h2 id="个人理解"><a href="#个人理解" class="headerlink" title="个人理解"></a>个人理解</h2><p>​    音乐说简单也简单，说难也难。说简单就是1234567，说难就是词、曲、编曲（伴奏）、人声、混音合成，各种风格音乐的出现，丰富了整个音乐界，我们只可以借鉴，创造自己的风格。我可能是个俗人，只知道那些流传下来的传统音乐。关于蓝调，爵士等等风格并不了解。因此，还要不断的学习和努力。</p><p> 希望能和你成为良师益友。 </p><h4 id="在学习音乐的道路上让我们-一同前进。"><a href="#在学习音乐的道路上让我们-一同前进。" class="headerlink" title="在学习音乐的道路上让我们 一同前进。"></a>在学习音乐的道路上让我们 一同前进。</h4><p>​                                                        ····未完待续</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 音乐 吉他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -音乐 -吉他 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>first</title>
+      <link href="/2020/06/20/first/"/>
+      <url>/2020/06/20/first/</url>
+      
+        <content type="html"><![CDATA[<p>#hello word<br>#自信是成功的第一秘诀<br><img src="/images/confidence.JPG" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 有点内涵的图片 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -成功 -娱乐 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
